@@ -1,0 +1,1 @@
+Blender - Hitting O while in edit mode will enable proportional editing!
