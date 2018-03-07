@@ -1,0 +1,2 @@
+You can use ALT + SHIFT + R to rename a variable or method!
+Refactoring has never been so easy!
